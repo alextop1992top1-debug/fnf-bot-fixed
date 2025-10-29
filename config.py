@@ -1,6 +1,6 @@
 import os
 
-BOT_TOKEN = "8372438234:AAG8ReUpNqCFaCvpQEsnGrLZ_OWZMZlbUjo"  # ДОБАВЬ КАВЫЧКИ!
+BOT_TOKEN = "8462588851:AAEoVrKBOZU0wA6v1Zksp-3KmwuEa1ieDe4"  # ДОБАВЬ КАВЫЧКИ!
 
 # Настройки игры
 MAX_ENERGY = 100
@@ -12,4 +12,5 @@ DB_PATH = "data/fnf_mmo.db"
 
 # Настройки боя
 MAX_COMBO = 1000
+
 PERFECT_TIMING_WINDOW = 0.1  # секунды
