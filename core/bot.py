@@ -480,7 +480,3 @@ class FNFMMOBot:
 
 # Глобальный экземпляр бота
 bot = FNFMMOBot()
-
-# ДОБАВЬ ЭТУ СТРОКУ для совместимости с main.py:
-async def run_bot():
-    await bot.run()
