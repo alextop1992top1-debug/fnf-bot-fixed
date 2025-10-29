@@ -480,3 +480,4 @@ class FNFMMOBot:
 
 # Глобальный экземпляр бота
 bot = FNFMMOBot()
+
